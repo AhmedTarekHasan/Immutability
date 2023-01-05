@@ -1,10 +1,10 @@
-<link rel="canonical" href="" />
+<link rel="canonical" href="https://levelup.gitconnected.com/importance-of-immutability-in-net-c-49f65bc4c537?sk=001838314138e61dda3a94d5c1e3ceca" />
 
 # Importance of Immutability in .NET C#
 ### Is Immutability really a good thing? Why? How To Apply?
 
 <p align="center">
-  <!--<img src="https://miro.medium.com/max/1400/1*v5qBr4h1qH6i_HavIwGAFQ.jpeg">-->
+  <img src="https://miro.medium.com/proxy/1*L0P1IL1B8eWkgBF3k41ENQ.webp">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: 
+[Article]: https://levelup.gitconnected.com/importance-of-immutability-in-net-c-49f65bc4c537?sk=001838314138e61dda3a94d5c1e3ceca
